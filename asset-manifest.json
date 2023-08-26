@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/halicarnassus/static/css/main.e45f705d.css",
+    "main.js": "/halicarnassus/static/js/main.ead6c9f6.js",
+    "static/js/787.8afd0638.chunk.js": "/halicarnassus/static/js/787.8afd0638.chunk.js",
+    "index.html": "/halicarnassus/index.html",
+    "main.e45f705d.css.map": "/halicarnassus/static/css/main.e45f705d.css.map",
+    "main.ead6c9f6.js.map": "/halicarnassus/static/js/main.ead6c9f6.js.map",
+    "787.8afd0638.chunk.js.map": "/halicarnassus/static/js/787.8afd0638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45f705d.css",
+    "static/js/main.ead6c9f6.js"
+  ]
+}
